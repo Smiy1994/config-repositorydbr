@@ -1,0 +1,7 @@
+# Semana03.property = semana03 profile Dev
+spring:
+jpa:
+  hibernate:
+    ddl-auto: update
+  database-platform: org.hibernate.dialect.MySQLDialect
+  show-sql: true
