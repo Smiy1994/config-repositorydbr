@@ -4,7 +4,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://mysql-prod:3306/estudiantesDEBER-prod
     username: root
-    password:
+    password: admin
   jpa:
     hibernate:
       ddl-auto: update
